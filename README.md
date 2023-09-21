@@ -53,17 +53,17 @@ Tabela 1 - Pinout da GPIO da Raspberry Pi
 
 | Item                     | GPIO Cruzamento 1 | GPIO Cruzamento 2 | Direção |
 |--------------------------|:----:|:----:|:-------:|
-| Semáforo 1 - Pino 1      |  01  | 02 | Saída   |
-| Semáforo 1 - Pino 2      |  26  | 03 | Saída   |
-| Semáforo 2 - Pino 1      |  21  | 11 | Saída   |
-| Semáforo 2 - Pino 2      |  20  |  0 | Saída   |
-| Botão de Pedestre 1      |  08  | 10 | Entrada |
-| Botão de Pedestre 2      |  07  | 09 | Entrada |
-| Sensor Via Auxiliar 1    |  14  | 04 | Entrada |
-| Sensor Via Auxiliar 2    |  15  | 17 | Entrada |
-| Sensor Via Principal 1    |  18  | 27 | Entrada |
-| Sensor Via Principal 1   |  23  | 22 | Entrada |
-| Buzzer                   |  24  | 13 | Saída |
+| Semáforo 1 - Pino 1      |  09  | 10 | Saída   |
+| Semáforo 1 - Pino 2      |  11  | 08 | Saída   |
+| Semáforo 2 - Pino 1      |  05  | 01 | Saída   |
+| Semáforo 2 - Pino 2      |  06  | 18 | Saída   |
+| Botão de Pedestre 1      |  13  | 23 | Entrada |
+| Botão de Pedestre 2      |  19  | 25 | Entrada |
+| Sensor Via Auxiliar 1    |  26  | 25 | Entrada |
+| Sensor Via Auxiliar 2    |  22  | 12 | Entrada |
+| Sensor Via Principal 1   |   0  | 16 | Entrada |
+| Sensor Via Principal 1   |  27  | 20 | Entrada |
+| Buzzer                   |  17  | 21 | Saída   |
 
 </center> 
 
